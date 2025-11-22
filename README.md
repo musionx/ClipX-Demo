@@ -1,6 +1,6 @@
 # ClipX
 
-一个基于 SyncClipboard(https://github.com/Jeric-X/SyncClipboard?tab=readme-ov-file) 的iOS剪贴板同步客户端，实现IOS端的剪贴板同步。
+一个基于 SyncClipboard(https://github.com/Jeric-X/SyncClipboard) 的iOS剪贴板同步客户端，实现IOS端的剪贴板同步。
 
 ## ⚠️ 说明
 业余选手，做的不好的地方请见谅哈，没有上架，巨魔或者越狱的可以直接装，没有的话，需要自己想办法安装，得搞个自签工具，可以找找教程
